@@ -9,6 +9,14 @@
       "status": "available"
     },
     {
+      "id": 10001,
+      "price": 10,
+      "age": "3",
+      "name": "Car1",
+      "imageURL": "src/media/Car.jpg",
+      "status": "not_available"
+    },
+    {
       "id": 1001,
       "price": 10,
       "age": "3",
